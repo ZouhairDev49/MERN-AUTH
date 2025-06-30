@@ -9,20 +9,18 @@ A complete authentication system built with the **MERN stack (MongoDB, Express, 
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Capture d'écran 2025-06-30 122612](https://github.com/user-attachments/assets/fa8d3aad-f309-4b8f-8372-4dbef1bd2a11)
+![[home Page]Capture d'écran 2025-06-30 122612](https://github.com/user-attachments/assets/fa8d3aad-f309-4b8f-8372-4dbef1bd2a11)
 
 ### 🔐 Login Page
-![Capture d'écran 2025-06-30 122519](https://github.com/user-attachments/assets/5e3d9f41-1237-4f4f-afa1-b70906213d3b)
-
+![Login Page][Capture d'écran 2025-06-30 122519](https://github.com/user-attachments/assets/5e3d9f41-1237-4f4f-afa1-b70906213d3b)
 
 ### 📝 Register Page
-![Capture d'écran 2025-06-30 122533](https://github.com/user-attachments/assets/679e29fe-26c8-4638-815e-a03d40d1c585)
-
+![Register Page][Capture d'écran 2025-06-30 122533](https://github.com/user-attachments/assets/679e29fe-26c8-4638-815e-a03d40d1c585)
 
 ### Reset Password with otp code verification 
-![Capture d'écran 2025-06-30 122455](https://github.com/user-attachments/assets/7b3f97ff-3a4f-465d-a4d2-28b671ae6073)
+![REset Password Page][Capture d'écran 2025-06-30 122455](https://github.com/user-attachments/assets/7b3f97ff-3a4f-465d-a4d2-28b671ae6073)
 ###  Account verification with otp code 
-![Capture d'écran 2025-06-30 122621](https://github.com/user-attachments/assets/c7c38082-2fd6-4a12-836a-a353b6566f9a)
+![Account verification Page][Capture d'écran 2025-06-30 122621](https://github.com/user-attachments/assets/c7c38082-2fd6-4a12-836a-a353b6566f9a)
 
 ---
 
@@ -59,7 +57,7 @@ A complete authentication system built with the **MERN stack (MongoDB, Express, 
 1. Clone the repository:
 
 ```sh
-git clone [https://github.com/salahghr4/mern-auth-workflow.git](https://github.com/ZouhairDev49/MERN-AUTH.git)
+git clone (https://github.com/ZouhairDev49/MERN-AUTH.git)
 cd mern-auth
 ```
 
